@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Ephrem Mesfin
 
-<!--
-**oneshotEFA/oneshotEFA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused Software Engineering student passionate about building scalable APIs, 
+clean backend architectures, and production-ready applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Software Engineering student at **Adama Science and Technology University**
+- 💻 Backend / Full-Stack Developer (Node.js, TypeScript, NestJS,SpringBoot)
+- 🛠️ Strong in REST APIs, PostgreSQL, Prisma ORM
+- ☁️ Experience with cloud deployment & DevOps basics
+- 🔍 Focused on clean architecture and real-world SDLC practices
+
+---
+
+## 🧠 Tech Stack
+**Languages:** TypeScript, JavaScript, Java, C++  
+**Backend:** Node.js, Express.js, NestJS, Spring Boot  
+**Frontend:** React, Next.js, React Native  
+**Databases:** PostgreSQL, Prisma ORM  
+**DevOps & Tools:** Git, GitHub, Docker (basic), Postman, n8n  
+
+
+## 🌐 Connect With Me
+- Portfolio: https://portfolio-2-0-rose-alpha.vercel.app
+- GitHub: https://github.com/oneshotEFA
+- LinkedIn: https://linkedin.com/in/ephrem-mesfin
+
+---
+
+⭐ *Always learning. Always building.*
