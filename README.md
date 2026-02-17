@@ -24,7 +24,6 @@ clean backend architectures, and production-ready applications.
 
 ## 🌐 Connect With Me
 - Portfolio: https://portfolio-2-0-rose-alpha.vercel.app
-- GitHub: https://github.com/oneshotEFA
 - LinkedIn: https://linkedin.com/in/ephrem-mesfin
 
 ---
