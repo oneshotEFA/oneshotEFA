@@ -51,7 +51,7 @@ Backend-focused Software Engineering student building **scalable systems**, **au
 
 ## Connect
 
-[![Portfolio](https://img.shields.io/badge/Explore%20My%20Work-000000?style=flat&logo=aboutdotme&logoColor=white)](https://portfolio-2-0-rose-alpha.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Explore%20My%20Work-000000?style=flat&logo=aboutdotme&logoColor=white)](https://www.ephraim-mesfin.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ephrem-mesfin)
 
 ---
